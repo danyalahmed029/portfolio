@@ -3,6 +3,7 @@
   "description": "Personal Website V4",
   "version": "1.0.0",
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "homepage": "https://danyalahmed029.github.io/portfolio",
   "repository": {
     "type": "git",
     "url": "https://github.com/bchiang7/v4"
@@ -14,6 +15,7 @@
   "browserslist": "> 0.25%, not dead",
   "scripts": {
     "build": "gatsby build",
+    "deploy": "gh-pages -d public",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
@@ -50,6 +52,7 @@
     "gatsby-source-filesystem": "^3.4.0",
     "gatsby-transformer-remark": "^4.1.0",
     "gatsby-transformer-sharp": "^3.4.0",
+    "gh-pages": "^3.2.3",
     "lodash": "^4.17.19",
     "prismjs": "^1.17.1",
     "prop-types": "^15.7.2",
