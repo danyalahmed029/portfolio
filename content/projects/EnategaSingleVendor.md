@@ -12,4 +12,4 @@ company: 'NinjasCode'
 showInProjects: true
 ---
 
-A Full Fledged Solution Highly Suitable To Build Any Restaurant, Food Delivery App For IOS & Android With Multi-Vendor Support Built Using React Native, Expo, GraphQL, Apollo Client, Node & MongoDB. Easy To Build Apps Like FoodPanda, UberEats, Swiggy, GrubHub, Deliveroo, JustEat, DoorDash.
+Ecommero is a responsive app for both iOS and Android build using React Native. This invention is very much similar to other e-commerce apps like Amazon, eBay, AliBaba, or Ali Express.

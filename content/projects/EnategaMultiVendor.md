@@ -12,4 +12,4 @@ company: 'NinjasCode'
 showInProjects: true
 ---
 
-It’s basically a clone of Foodpanda with some inspirations taken from Uber Eats and GrubHub. This product includes 3 Mobile Apps (Rider, Customer & Restaurant), Admin Dashboard, Analytics Dashboard & API Server. It's a full-fledged solution with everything you might need out of the box for making your own food delivery app clone.
+It’s a clone of Foodpanda with some inspiration taken from Uber Eats and GrubHub. This product comprises 3 mobile apps (Rider, Customer, and Restaurant), Admin dashboard, Analytics dashboards, and API server. It’s a thorough solution with everything you might need for making your own food delivery app clone.

@@ -10,4 +10,4 @@ company: 'Apple'
 showInProjects: true
 ---
 
-Developed mobile and web Api's of audio streaming application.
+Developed mobile and web Api’s of audio streaming application

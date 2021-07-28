@@ -12,4 +12,4 @@ company: 'NinjasCode'
 showInProjects: true
 ---
 
-Ecommero is a responsive app for both iOS and Android which is built using React Native. This product is very similar to other e-commerce apps like Amazon, eBay, Alibaba or Ali Express.
+Ecommero is a responsive app for both iOS and Android build using React Native. This invention is very much similar to other e-commerce apps like Amazon, eBay, AliBaba, or Ali Express.

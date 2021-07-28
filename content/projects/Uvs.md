@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-Developed management system providing dashboard where information of every entity related to hospital is stored for everyday hospital management tasks.
+For everyday hospital management tasks, a developed system providing dashboard is formed. It stores information of every hospital related entity.

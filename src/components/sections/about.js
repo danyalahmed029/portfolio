@@ -145,18 +145,17 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I am Danyal, a software engineer based in Pakistan.</p>
+            <p>Hello! I am Danyal, a software engineer based in Pakistan. </p>
             <p>
-              I loves to see the world of technology beautiful, and complete, easy and specially
-              pixel perfect, So, I finds myself perfectly suitable in the field of Software
-              development.
+              I love to see the world of technology beautiful, complete, easy, and particularly
+              pixel perfect. So, I find myself a perfect fit in the field of Software development.
             </p>
             <p>
               I graduated from{' '}
               <a href="http://bahria.edu.pk/" target="_blank" rel="noopener noreferrer">
                 Bahria University
-              </a>
-              , and worked for{' '}
+              </a>{' '}
+              back in 2016 , and worked for{' '}
               <a href="https://ninjascode.com/" target="_blank" rel="noreferrer">
                 NinjasCode
               </a>{' '}

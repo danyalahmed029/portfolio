@@ -59,12 +59,12 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Danyal Ahmed Malik.</h2>;
+  const two = <h2 className="big-heading">Danyal Ahmed Malik</h2>;
   // const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      I'm a Pakistan-based software engineer who specializes in building web and mobile appications.
-      Currently, I'm a Senior Software Engineer at{' '}
+      I am a Pakistan-based Software Engineer who specializes in developing web and mobile
+      applications. Currently, I’m working as a Senior Software Engineer at{' '}
       <a href="https://ninjascode.com/" target="_blank" rel="noreferrer">
         NinjasCode
       </a>{' '}

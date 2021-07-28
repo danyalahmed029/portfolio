@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Limitless Ebooks is an ebooks listing websites where users can buy
+It is an eBook listing website where users can buy books
