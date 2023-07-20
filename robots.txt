@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://danyalmalik.com/sitemap/sitemap-index.xml
+Sitemap: https://danyalmalik.com/sitemap-index.xml
 Host: https://danyalmalik.com
