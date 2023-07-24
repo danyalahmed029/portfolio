@@ -2,7 +2,7 @@
 date: '2017-11-01'
 title: 'Audtix'
 github: ''
-external: 'http://audtix.codesorbit.com/'
+external: 'http://www.dakkat.com/'
 tech:
   - Node
   - MSSQl

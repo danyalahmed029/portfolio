@@ -63,12 +63,10 @@ const Hero = () => {
   // const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      I am a Pakistan-based Software Engineer who specializes in developing web and mobile
-      applications. Currently, I’m working as a Senior Software Engineer at{' '}
-      <a href="https://ninjascode.com/" target="_blank" rel="noreferrer">
-        NinjasCode
-      </a>{' '}
-      .
+      I'm a Full Stack Engineer with over 6 years of professional software development experience
+      using JavaScript & TypeScript. I'm part of an agile development team in charge of developing
+      highly scalable and reliable applications using Javascript, Laravel, and API Gateways in
+      multiple environments including microservices & monolithic.
     </p>
   );
   const five = (

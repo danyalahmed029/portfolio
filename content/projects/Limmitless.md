@@ -1,14 +1,12 @@
 ---
 date: '2018-12-29'
-title: 'LIMITLESS EBOOKS'
+title: 'HPEC'
 github: ''
-external: 'http://limitlessebooks.com'
+external: 'https://www.hpec.io/'
 tech:
-  - Laravel
-  - Bootstrap
-  - Jquery
-  - MySQl
+  - React Native
+  - Clean Architecture
 showInProjects: true
 ---
 
-It is an eBook listing website where users can buy books
+Empowering Physicians to Practice

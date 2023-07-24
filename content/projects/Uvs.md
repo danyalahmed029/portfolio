@@ -1,13 +1,14 @@
 ---
 date: '2017-12-01'
-title: 'UVS Hospital Management System'
+title: 'Bundl'
 github: ''
-external: 'http://uvs.codesorbit.com/'
+external: 'https://www.facebook.com/MyBundl/'
 tech:
-  - Node
-  - MSSQl
+  - React Native
+  - Typescript
+  - Jest
 company: ''
 showInProjects: true
 ---
 
-For everyday hospital management tasks, a developed system providing dashboard is formed. It stores information of every hospital related entity.
+The number one destination for baby and children’s resale apparel.

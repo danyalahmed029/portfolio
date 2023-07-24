@@ -156,6 +156,14 @@ const About = () => {
                 Bahria University
               </a>{' '}
               back in 2016 , and worked for{' '}
+              <a href="https://www.rhbgroup.com/" target="_blank" rel="noreferrer">
+                RHB Banking Group
+              </a>
+              {', '}
+              <a href="https://www.paxico.pk/" target="_blank" rel="noreferrer">
+                Paxico Technologies
+              </a>
+              {', '}
               <a href="https://ninjascode.com/" target="_blank" rel="noreferrer">
                 NinjasCode
               </a>{' '}

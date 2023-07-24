@@ -3,7 +3,7 @@ date: '2018-05-20'
 title: 'Senior Software Engineer'
 company: 'NinjasCode'
 location: 'ISB, Pakistan'
-range: 'Dec 2019 - Present'
+range: 'Dec 2019 - Sep 2021'
 url: 'https://www.ninjascode.com/'
 ---
 
